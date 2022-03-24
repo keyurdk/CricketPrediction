@@ -1,38 +1,40 @@
-[
-  {
-    "country_name": "India",
-    "country_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
-  },
-  {
-    "country_name": "South Africa",
-    "country_flag": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg"
-  },
-  {
-    "country_name": "Australia",
-    "country_flag": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg"
-  },
-  {
-    "country_name": "England",
-    "country_flag": "https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg"
-  },
-  {
-    "country_name": "Sri Lanka",
-    "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png"
-  },
-  {
-    "country_name": "West Indies",
-    "country_flag": "https://www.sportzcraazy.com/wp-content/uploads/2020/11/west-indies-cricket-team-logo.jpg"
-  },
-  {
-    "country_name": "Pakistan",
-    "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png"
-  },
-  {
-    "country_name": "Bangladesh",
-    "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png"
-  },
-  {
-    "country_name": "Newzeland",
-    "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png"
-  }
-]
+{
+  "Teams":[
+    {
+      "country_name": "India",
+      "country_flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    {
+      "country_name": "South Africa",
+      "country_flag": "https://cdn.britannica.com/27/4227-004-32423B42/Flag-South-Africa.jpg"
+    },
+    {
+      "country_name": "Australia",
+      "country_flag": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg"
+    },
+    {
+      "country_name": "England",
+      "country_flag": "https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg"
+    },
+    {
+      "country_name": "Sri Lanka",
+      "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/800px-Flag_of_Sri_Lanka.svg.png"
+    },
+    {
+      "country_name": "West Indies",
+      "country_flag": "https://www.sportzcraazy.com/wp-content/uploads/2020/11/west-indies-cricket-team-logo.jpg"
+    },
+    {
+      "country_name": "Pakistan",
+      "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1280px-Flag_of_Pakistan.svg.png"
+    },
+    {
+      "country_name": "Bangladesh",
+      "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png"
+    },
+    {
+      "country_name": "Newzeland",
+      "country_flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/320px-Flag_of_New_Zealand.svg.png"
+    }
+  ]
+}
