@@ -1,0 +1,2576 @@
+{
+  "Mumbai Indians": [
+    {
+      "player_name": "Q.de Cock",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "I.Kishan",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/331100/331165.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Sharma",
+      "player_type": "Batsman",
+      "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Yadav",
+      "player_type": "Batsman",
+      "player_image_url": "https://images.indianexpress.com/2021/03/Suryakumar_Yadav_Twitter.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Lynn",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Tiwary",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Pollard",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Pandya",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170666/hardik-pandya.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Pandya",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/322600/322614.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.C.Nile",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Bumrah",
+      "player_type": "Bowler",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319900/319940.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Boult",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Chahar",
+      "player_type": "Bowler",
+      "player_image_url": "https://pbs.twimg.com/profile_images/1370655793406603264/3q2IKF5p_400x400.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Yadav",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Kulkarni",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Delhi Capitals": [
+    {
+      "player_name": "A.Carey",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Pant",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "https://pbs.twimg.com/profile_images/1255017319635410944/lFsXKEs__400x400.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Iyer",
+      "player_type": "Batsman",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323000/323035.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Rahane",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Dhavan",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Hetmire",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Shaw",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Stoinish",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Yadav",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Patel",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Rabada",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Ashvin",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Norkia",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Khan",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "I.Sharma",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Chennai Super Kings": [
+    {
+      "player_name": "M.S.Dhoni",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.Jagadishan",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "F.du Plesis",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Gaikvad",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Rayadu",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Jadhav",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Vijay",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Ali",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Jadeja",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316600.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Bravo",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Thakur",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Chahar",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Ngidi",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Sentnar",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Hazalwood",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Kolkata Knight Riders": [
+    {
+      "player_name": "D.Kartik",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Bonton",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Seifert",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Gill",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.Rana",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Tripathi",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "E.Morgon",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Russell",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Mavi",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Green",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Cummins",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Yadav",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Narine",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Ferguson",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Krishna",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Punjab Kings": [
+    {
+      "player_name": "K.L.Rahul",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.Pooran",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Gayle",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Agraval",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Nire",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Shingh",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Khan",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Neesham",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Hooda",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Barar",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Shingh",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Shami",
+      "player_type": "Bowler",
+      "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257184/69257184.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Raheman",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Jordan",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Cotrell",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Rajasthan Royals": [
+    {
+      "player_name": "J.Buttler",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Samson",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Smith",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Miller",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "Y.Jaisval",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Parag",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Stoks",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Tevatiya",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Curran",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Morris",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Try",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Unadkad",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Archer",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "V.Aron",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "O.Thomas",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Royal Challengers Bangalore": [
+    {
+      "player_name": "AB.de Villiers",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Phillips",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "V.Kohli",
+      "player_type": "Batsman",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316605.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Finch",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Paddikal",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "G.Maxwell",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "W.Sundar",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Ahmed",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "G.Mann",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Patel",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Kaul",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Richardson",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Siraj",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "Y.Chahal",
+      "player_type": "Bowler",
+      "player_image_url": "https://images.news18.com/ibnlive/uploads/2021/02/1612586904_post_image_da89ec7.jpeg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.DeshPande",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "SunRisers Hyderabad": [
+    {
+      "player_name": "W.Saha",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Goswami",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Bairstow",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Warner",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Williamson",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Pandey",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Garg",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "V.Shankar",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Marsh",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "F.Allen",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Nabi",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Afghanistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Khan",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Afghanistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Kumar",
+      "player_type": "Bowler",
+      "player_image_url": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/116.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Ahemad",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Sharma",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "India": [
+    {
+      "player_name": "R.Pant",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "https://pbs.twimg.com/profile_images/1255017319635410944/lFsXKEs__400x400.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "I.Kishan",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/331100/331165.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Sharma",
+      "player_type": "Batsman",
+      "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "V.Kohli",
+      "player_type": "Batsman",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316605.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Yadav",
+      "player_type": "Batsman",
+      "player_image_url": "https://images.indianexpress.com/2021/03/Suryakumar_Yadav_Twitter.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Iyer",
+      "player_type": "Batsman",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323000/323035.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Pandya",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170666/hardik-pandya.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Pandya",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/322600/322614.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Jadeja",
+      "player_type": "All-Rounder",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316600.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Bumrah",
+      "player_type": "Bowler",
+      "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319900/319940.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Shami",
+      "player_type": "Bowler",
+      "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257184/69257184.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Kumar ",
+      "player_type": "Bowler",
+      "player_image_url": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/116.png",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Chahar",
+      "player_type": "Bowler",
+      "player_image_url": "https://pbs.twimg.com/profile_images/1370655793406603264/3q2IKF5p_400x400.jpg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "Y.Chahal",
+      "player_type": "Bowler",
+      "player_image_url": "https://images.news18.com/ibnlive/uploads/2021/02/1612586904_post_image_da89ec7.jpeg",
+      "player_country": "India",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "South Africa": [
+    {
+      "player_name": "Q.de Kock",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Wyk",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Bavuma",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "F.du Plessis",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Markram",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Miller",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Zondo",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "RV.Dussen",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Hendricks",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Klassen",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Maharaj",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Rabada",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Shamsi",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Nortje",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Ngidi",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "South Africa",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Australia": [
+    {
+      "player_name": "J.Inglis",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Wade",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Finch",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Smith",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.warner",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Marsh",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "G.Maxwell",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Stoinish",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Agar",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Cummins",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Starc",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Zampa",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Hazlewood",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Swepson",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Rechardson",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Australia",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "England": [
+    {
+      "player_name": "J.Buttler",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Billings",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Bairstow",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Roy",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "E.Morgon",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Malan",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Vince",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Ali",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Woakes",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Willey",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Wood",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Rashid",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Jordan",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Mills",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Topley",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "England",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Sri Lanka": [
+    {
+      "player_name": "K.Perera",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Chandimal",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Fernando",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Rajapaksa",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "P.Nishanka",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Shanaka",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.de Silva",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "W.Hasaranga",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Asalanka",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Karunaratne",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Theekshana",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Chameera",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Kumara",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Fernando",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Dhananjaya",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Sri Lanka",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "West Indies": [
+    {
+      "player_name": "N.Pooran",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Fletcher",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "C.Gayle",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Hetmyer",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "E.Lewis",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Simmons",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Pollard",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Russell",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Bravo",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Holder",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "O.Thomas",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Walsh",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Rampaul",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Hosein",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "O.McCoy",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "West Indies",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Pakistan": [
+    {
+      "player_name": "M.Rizwan",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Ahmed",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "B.Azam",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Ali",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "F.Zaman",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Ali",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Hafeez",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Malik",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "I.Wasim",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Nawaz",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Wasim",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Khan",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Rauf",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "H.Ali",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Afridi",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Pakistan",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Bangladesh": [
+    {
+      "player_name": "M.Rahim",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "L.Das",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.Hasan",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Sarkar",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Naim",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "Mahmudullah",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Al Hasan",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Hossain",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Hossain",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Saifuddin",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Raheman",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Ahmed",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "R.Hossain",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "N.Ahmed",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "S.Islam",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Bangladesh",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ],
+  "Newzeland": [
+    {
+      "player_name": "D.Conway",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "G.Phillips",
+      "player_type": "Wicket-Keeper",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Saifert",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Williamson",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Guptil",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Chapman",
+      "player_type": "Batsman",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "J.Neesham",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Astle",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "D.Michhel",
+      "player_type": "All-Rounder",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "M.Sentner",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Boult",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "K.Jemisson",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "A.Milne",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "I.Sodhi",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    },
+    {
+      "player_name": "T.Southee",
+      "player_type": "Bowler",
+      "player_image_url": "",
+      "player_country": "Newzeland",
+      "born": "Dec 17, 1992 (28 years)",
+      "rank_test": "10",
+      "rank_odi": "10",
+      "rank_t20": "14"
+    }
+  ]
+}

@@ -1,0 +1,2314 @@
+{
+  "3": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "4": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "5": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "6": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "7": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "8": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "9": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ],
+  "10": [
+    {
+      "bat_team1": [
+        {
+          "playername": "Rohit (c)",
+          "runs": "56",
+          "ball": "31",
+          "fours": "5",
+          "sixes": "3",
+          "strike_rate": "180.65",
+          "status": "c and b Ish Sodhi"
+        },
+        {
+          "playername": "Ishan Kishan",
+          "runs": "29",
+          "ball": "21",
+          "fours": "6",
+          "sixes": "0",
+          "strike_rate": "138.10",
+          "status": "c Seifert b Santner"
+        },
+        {
+          "playername": "Suryakumar Yadav",
+          "runs": "0",
+          "ball": "4",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "0.0",
+          "status": "c Guptill b Santner"
+        },
+        {
+          "playername": "Pant (wk)",
+          "runs": "4",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "66.16",
+          "status": "c Neesham b Santner"
+        },
+        {
+          "playername": "Shreyas Iyer",
+          "runs": "25",
+          "ball": "20",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "120.20",
+          "status": "c Daryl Mitchell b Milne"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "runs": "20",
+          "ball": "15",
+          "fours": "1",
+          "sixes": "1",
+          "strike_rate": "133.54",
+          "status": "c Chapman b Boult"
+        },
+        {
+          "playername": "Axar",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "not out"
+        },
+        {
+          "playername": "Harshal Patel",
+          "runs": "18",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "163.64",
+          "status": "hit wkt b Lockie Ferguson"
+        },
+        {
+          "playername": "D Chahar",
+          "runs": "21",
+          "ball": "8",
+          "fours": "2",
+          "sixes": "1",
+          "strike_rate": "262.50",
+          "status": "not out"
+        }
+      ],
+      "bat_team2": [
+        {
+          "playername": "Martin Guptill",
+          "runs": "51",
+          "ball": "36",
+          "fours": "4",
+          "sixes": "4",
+          "strike_rate": "141.65",
+          "status": "c Suryakumar Yadav b Chahal"
+        },
+        {
+          "playername": "Daryl Mitchell",
+          "runs": "5",
+          "ball": "6",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "83.10",
+          "status": "c Harshal Patel b Axar"
+        },
+        {
+          "playername": "Mark Chapman",
+          "runs": "0",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "st Pant b Axar"
+        },
+        {
+          "playername": "Glenn Phillips",
+          "runs": "0",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "0.0",
+          "status": "b Axar"
+        },
+        {
+          "playername": "Tim Seifert (wk)",
+          "runs": "17",
+          "ball": "18",
+          "fours": "1",
+          "sixes": "0",
+          "strike_rate": "94.20",
+          "status": "run out (Ishan Kishan/Pant)"
+        },
+        {
+          "playername": "James Neesham",
+          "runs": "3",
+          "ball": "7",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "42.86",
+          "status": "c Pant b Harshal Patel"
+        },
+        {
+          "playername": "Mitchell Santner (c)",
+          "runs": "2",
+          "ball": "4",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "50.00",
+          "status": "run out (Ishan Kishan)"
+        },
+        {
+          "playername": "Adam Milne",
+          "runs": "7",
+          "ball": "6",
+          "fours": "0",
+          "sixes": "1",
+          "strike_rate": "116.64",
+          "status": "c Rohit b Venkatesh Iyer"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "runs": "9",
+          "ball": "11",
+          "fours": "2",
+          "sixes": "0",
+          "strike_rate": "81.50",
+          "status": "c Suryakumar Yadav b Harshal Patel"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "runs": "14",
+          "ball": "8",
+          "fours": "0",
+          "sixes": "2",
+          "strike_rate": "175.50",
+          "status": "c and b D Chahar"
+        },
+        {
+          "playername": "Trent Boult",
+          "runs": "2",
+          "ball": "2",
+          "fours": "0",
+          "sixes": "0",
+          "strike_rate": "100.50",
+          "status": "not out"
+        }
+      ],
+      "ball_team1": [
+        {
+          "playername": "Bhuvneshwar Kumar",
+          "over": "2",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "0",
+          "economic_rate": "6.0"
+        },
+        {
+          "playername": "Deepak Chahar",
+          "over": "2.2",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "11.10"
+        },
+        {
+          "playername": "Axar Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "9",
+          "wicket": "3",
+          "economic_rate": "3.0"
+        },
+        {
+          "playername": "Yuzvendra Chahal",
+          "over": "4",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "1",
+          "economic_rate": "6.50"
+        },
+        {
+          "playername": "Venkatesh Iyer",
+          "over": "3",
+          "meiden": "0",
+          "runs": "12",
+          "wicket": "1",
+          "economic_rate": "4.0"
+        },
+        {
+          "playername": "Harshal Patel",
+          "over": "3",
+          "meiden": "0",
+          "runs": "26",
+          "wicket": "2",
+          "economic_rate": "8.70"
+        }
+      ],
+      "ball_team2": [
+        {
+          "playername": "Boult",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        },
+        {
+          "playername": "Milne",
+          "over": "4",
+          "meiden": "0",
+          "runs": "47",
+          "wicket": "1",
+          "economic_rate": "11.80"
+        },
+        {
+          "playername": "Lockie Ferguson",
+          "over": "4",
+          "meiden": "0",
+          "runs": "45",
+          "wicket": "1",
+          "economic_rate": "11.20"
+        },
+        {
+          "playername": "Santner (c)",
+          "over": "4",
+          "meiden": "0",
+          "runs": "27",
+          "wicket": "3",
+          "economic_rate": "6.80"
+        },
+        {
+          "playername": "Ish Sodhi",
+          "over": "4",
+          "meiden": "0",
+          "runs": "31",
+          "wicket": "1",
+          "economic_rate": "7.80"
+        }
+      ]
+    }
+  ]
+}

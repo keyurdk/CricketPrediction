@@ -1,0 +1,6617 @@
+{
+  "R.Pant": [
+    {
+      "personal_info": {
+        "player_name": "R.Pant",
+        "player_type": "Wicket-Keeper",
+        "player_image_url": "https://pbs.twimg.com/profile_images/1255017319635410944/lFsXKEs__400x400.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "5",
+          "odi": "dfg",
+          "t20": "ser",
+          "ipl": "aser"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "I.Kishan": [
+    {
+      "personal_info": {
+        "player_name": "I.Kishan",
+        "player_type": "Wicket-Keeper",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/331100/331165.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "1223",
+          "odi": "12312",
+          "t20": "1234",
+          "ipl": "123"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "R.Sharma": [
+    {
+      "personal_info": {
+        "player_name": "R.Sharma",
+        "player_type": "Batsman",
+        "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "V.Kohli": [
+    {
+      "personal_info": {
+        "player_name": "V.Kohli",
+        "player_type": "Batsman",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316605.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "S.Yadav": [
+    {
+      "personal_info": {
+        "player_name": "S.Yadav",
+        "player_type": "Batsman",
+        "player_image_url": "https://images.indianexpress.com/2021/03/Suryakumar_Yadav_Twitter.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "S.Iyer": [
+    {
+      "personal_info": {
+        "player_name": "S.Iyer",
+        "player_type": "Batsman",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323000/323035.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "H.Pandya": [
+    {
+      "personal_info": {
+        "player_name": "H.Pandya",
+        "player_type": "All-Rounder",
+        "player_image_url": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170666/hardik-pandya.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "K.Pandya": [
+    {
+      "personal_info": {
+        "player_name": "K.Pandya",
+        "player_type": "All-Rounder",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/322600/322614.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "R.Jadeja": [
+    {
+      "personal_info": {
+        "player_name": "R.Jadeja",
+        "player_type": "All-Rounder",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316600.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "J.Bumrah": [
+    {
+      "personal_info": {
+        "player_name": "J.Bumrah",
+        "player_type": "Bowler",
+        "player_image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319900/319940.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "M.Shami": [
+    {
+      "personal_info": {
+        "player_name": "M.Shami",
+        "player_type": "Bowler",
+        "player_image_url": "https://opt.toiimg.com/recuperator/img/toi/m-69257184/69257184.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "B.Kumar": [
+    {
+      "personal_info": {
+        "player_name": "B.Kumar ",
+        "player_type": "Bowler",
+        "player_image_url": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/116.png",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "R.Chahar": [
+    {
+      "personal_info": {
+        "player_name": "R.Chahar",
+        "player_type": "Bowler",
+        "player_image_url": "https://pbs.twimg.com/profile_images/1370655793406603264/3q2IKF5p_400x400.jpg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "Y.Chahal": [
+    {
+      "personal_info": {
+        "player_name": "Y.Chahal",
+        "player_type": "Bowler",
+        "player_image_url": "https://images.news18.com/ibnlive/uploads/2021/02/1612586904_post_image_da89ec7.jpeg",
+        "player_country": "India",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "D.Conway": [
+    {
+      "personal_info": {
+        "player_name": "D.Conway",
+        "player_type": "Wicket-Keeper",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "G.Phillips": [
+    {
+      "personal_info": {
+        "player_name": "G.Phillips",
+        "player_type": "Wicket-Keeper",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "T.Saifert": [
+    {
+      "personal_info": {
+        "player_name": "T.Saifert",
+        "player_type": "Batsman",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "K.Williamson": [
+    {
+      "personal_info": {
+        "player_name": "K.Williamson",
+        "player_type": "Batsman",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "M.Guptil": [
+    {
+      "personal_info": {
+        "player_name": "M.Guptil",
+        "player_type": "Batsman",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "M.Chapman": [
+    {
+      "personal_info": {
+        "player_name": "M.Chapman",
+        "player_type": "Batsman",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "J.Neesham": [
+    {
+      "personal_info": {
+        "player_name": "J.Neesham",
+        "player_type": "All-Rounder",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "T.Astle": [
+    {
+      "personal_info": {
+        "player_name": "T.Astle",
+        "player_type": "All-Rounder",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "D.Michhel": [
+    {
+      "personal_info": {
+        "player_name": "D.Michhel",
+        "player_type": "All-Rounder",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "M.Sentner": [
+    {
+      "personal_info": {
+        "player_name": "M.Sentner",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "T.Boult": [
+    {
+      "personal_info": {
+        "player_name": "T.Boult",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "K.Jemisson": [
+    {
+      "personal_info": {
+        "player_name": "K.Jemisson",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "A.Milne": [
+    {
+      "personal_info": {
+        "player_name": "A.Milne",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "I.Sodhi": [
+    {
+      "personal_info": {
+        "player_name": "I.Sodhi",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ],
+  "T.Southee": [
+    {
+      "personal_info": {
+        "player_name": "T.Southee",
+        "player_type": "Bowler",
+        "player_image_url": "",
+        "player_country": "Newzeland",
+        "born": "Dec 17, 1992 (28 years)",
+        "rank_test": "10",
+        "rank_odi": "10",
+        "rank_t20": "14"
+      },
+      "batting_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Highest",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Not Out",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Fours",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Sixes",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Ducks",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "50s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "100s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "200s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "300s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "400s",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ],
+      "bowling_career": [
+        {
+          "player_varient": "Matches",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Innings",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Balls",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Runs",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Maidens",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Wickets",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Average",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "Eco",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "SR",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBI",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "BBM",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "4w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "5w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        },
+        {
+          "player_varient": "10w",
+          "test": "0",
+          "odi": "0",
+          "t20": "0",
+          "ipl": "0"
+        }
+      ]
+    }
+  ]
+}
+
+
+
