@@ -1,34 +1,36 @@
-[
-  {
-    "country_name": "Mumbai Indians",
-    "country_flag": "https://static.india.com/wp-content/uploads/2017/03/mumbai.jpg?impolicy=Medium_Resize&w=1200&h=800"
-  },
-  {
-    "country_name": "Delhi Capitals",
-    "country_flag": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/12/04/Pictures/_b1c8f74c-f7b9-11e8-b0ae-a79201e85078.jpg"
-  },
-  {
-    "country_name": "Chennai Super Kings",
-    "country_flag": "https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg"
-  },
-  {
-    "country_name": "Kolkata Knight Riders",
-    "country_flag": "https://wallpaperaccess.com/full/3411317.jpg"
-  },
-  {
-    "country_name": "Punjab Kings",
-    "country_flag": "https://play-lh.googleusercontent.com/FBSeMGbfRNU0kVSzSodJHrdsfGVMYgK8Nj24njFPhtZVOZsWBKlf_qbOXweOe9oe_w8"
-  },
-  {
-    "country_name": "Rajasthan Royals",
-    "country_flag": "https://static.toiimg.com/thumb/msid-72902484,width-1200,height-900,resizemode-4/.jpg"
-  },
-  {
-    "country_name": "Royal Challengers Bangalore",
-    "country_flag": "https://i.ytimg.com/vi/DgFizTO32hw/mqdefault.jpg"
-  },
-  {
-    "country_name": "SunRisers Hyderabad",
-    "country_flag": "https://static.toiimg.com/thumb/msid-72902421,width-1200,height-900,resizemode-4/.jpg"
-  }
-]
+{
+  "Teams":[
+    {
+      "country_name": "Mumbai Indians",
+      "country_flag": "https://static.india.com/wp-content/uploads/2017/03/mumbai.jpg?impolicy=Medium_Resize&w=1200&h=800"
+    },
+    {
+      "country_name": "Delhi Capitals",
+      "country_flag": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/12/04/Pictures/_b1c8f74c-f7b9-11e8-b0ae-a79201e85078.jpg"
+    },
+    {
+      "country_name": "Chennai Super Kings",
+      "country_flag": "https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg"
+    },
+    {
+      "country_name": "Kolkata Knight Riders",
+      "country_flag": "https://wallpaperaccess.com/full/3411317.jpg"
+    },
+    {
+      "country_name": "Punjab Kings",
+      "country_flag": "https://play-lh.googleusercontent.com/FBSeMGbfRNU0kVSzSodJHrdsfGVMYgK8Nj24njFPhtZVOZsWBKlf_qbOXweOe9oe_w8"
+    },
+    {
+      "country_name": "Rajasthan Royals",
+      "country_flag": "https://static.toiimg.com/thumb/msid-72902484,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+      "country_name": "Royal Challengers Bangalore",
+      "country_flag": "https://i.ytimg.com/vi/DgFizTO32hw/mqdefault.jpg"
+    },
+    {
+      "country_name": "SunRisers Hyderabad",
+      "country_flag": "https://static.toiimg.com/thumb/msid-72902421,width-1200,height-900,resizemode-4/.jpg"
+    }
+  ]
+}
