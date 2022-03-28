@@ -1,0 +1,92 @@
+{
+  "TV":[
+    {
+      "name": "Sony Six",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/18_205.png"
+    },
+    {
+      "name": "Sony Ten1",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/20_204.png"
+    },
+    {
+      "name": "Sony Ten2",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/22_210.png"
+    },
+    {
+      "name": "Sony Ten3",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/24_203.png"
+    },
+    {
+      "name": "Sony Ten4",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/38_201.png"
+    },
+    {
+      "name": "Sony ESPN",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-espn-logo.jpg"
+    },
+    {
+      "name": "Sony Six (HD)",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/19_209.png"
+    },
+    {
+      "name": "Sony Ten1 (HD)",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/21_208.png"
+    },
+    {
+      "name": "Sony Ten2 (HD)",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/23_207.png"
+    },
+    {
+      "name": "Sony Ten3 (HD)",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/23_207.png"
+    },
+    {
+      "name": "Sony Ten4 (HD)",
+      "image": "https://d1or4efq32i6bx.cloudfront.net/logo/39_202.png"
+    },
+    {
+      "name": "Sony ESPN (HD)",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-espn-hd-logo.jpg"
+    },
+    {
+      "name": "Dsport",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/discovery-dsport-logo.jpg"
+    },
+    {
+      "name": "Dsport HD",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/discovery-dsport-hd-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1 HD",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1 Hindi",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-hindi-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1 Hindi HD",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-hd-hindi-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1 Kannada",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-kannada-logo.jpg"
+    },
+    {
+      "name": "Star Sports 1 Tamil",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-tamil-logo.jpg"
+    },
+    {
+      "name": "1Sports",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/1sports-tv-channel-logo-100x100.jpg"
+    },
+    {
+      "name": "DD Sports",
+      "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/dd-sports-tv-channel-logo-100x100.jpg"
+    }
+  ]
+}
